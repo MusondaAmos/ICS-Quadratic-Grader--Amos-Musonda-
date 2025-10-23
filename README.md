@@ -6,7 +6,7 @@ This single-page web app performs two functions:
 
 ---
 
-## ðŸ§® Quadratic Solver
+## Quadratic Solver
 
 ### Inputs:
 - a, b, c â†’ Coefficients of the quadratic equation  
@@ -24,7 +24,7 @@ This single-page web app performs two functions:
 
 ---
 
-## ðŸŽ“ Grading System
+##  Grading System
 
 ### Input:
 - A single score (integer from 0 to 100)
@@ -44,7 +44,7 @@ This single-page web app performs two functions:
 
 ---
 
-## ðŸ§  Edge Cases
+## Edge Cases
 - Handles invalid or empty inputs gracefully.
 - Example:
   - 85 â†’ A+
@@ -89,7 +89,7 @@ https://github.com//ICS-Quadratic-Grader-MUSONDA-AMOS
 
 ---
 
-## ðŸ§¾ Author
+## Author
 **Name:** Musonda Amos
 **Course:**ICT 251
 **StudentNumber:** 202408460
